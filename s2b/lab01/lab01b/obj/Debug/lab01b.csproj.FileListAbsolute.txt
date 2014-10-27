@@ -1,0 +1,5 @@
+c:\users\curso\documents\visual studio 2010\Projects\lab01\lab01b\bin\Debug\lab01b.dll
+c:\users\curso\documents\visual studio 2010\Projects\lab01\lab01b\bin\Debug\lab01b.pdb
+c:\users\curso\documents\visual studio 2010\Projects\lab01\lab01b\obj\Debug\ResolveAssemblyReference.cache
+c:\users\curso\documents\visual studio 2010\Projects\lab01\lab01b\obj\Debug\lab01b.dll
+c:\users\curso\documents\visual studio 2010\Projects\lab01\lab01b\obj\Debug\lab01b.pdb

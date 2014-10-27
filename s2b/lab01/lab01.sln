@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab01", "lab01\lab01.csproj", "{BAE38E4F-5A91-4153-B61A-CB155F6A333D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab01b", "lab01b\lab01b.csproj", "{7845207E-5DC0-4DD0-A95E-EB77105EDD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE38E4F-5A91-4153-B61A-CB155F6A333D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE38E4F-5A91-4153-B61A-CB155F6A333D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE38E4F-5A91-4153-B61A-CB155F6A333D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE38E4F-5A91-4153-B61A-CB155F6A333D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7845207E-5DC0-4DD0-A95E-EB77105EDD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7845207E-5DC0-4DD0-A95E-EB77105EDD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7845207E-5DC0-4DD0-A95E-EB77105EDD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7845207E-5DC0-4DD0-A95E-EB77105EDD74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
