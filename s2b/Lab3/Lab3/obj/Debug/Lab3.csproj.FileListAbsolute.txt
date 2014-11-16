@@ -1,0 +1,7 @@
+c:\users\curso\documents\visual studio 2010\Projects\Lab3\Lab3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\curso\documents\visual studio 2010\Projects\Lab3\Lab3\bin\Lab3.dll
+c:\users\curso\documents\visual studio 2010\Projects\Lab3\Lab3\bin\Lab3.pdb
+c:\users\curso\documents\visual studio 2010\Projects\Lab3\Lab3\bin\Lab3.ClassLibrary.dll
+c:\users\curso\documents\visual studio 2010\Projects\Lab3\Lab3\bin\Lab3.ClassLibrary.pdb
+c:\users\curso\documents\visual studio 2010\Projects\Lab3\Lab3\obj\Debug\Lab3.dll
+c:\users\curso\documents\visual studio 2010\Projects\Lab3\Lab3\obj\Debug\Lab3.pdb
